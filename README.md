@@ -8,11 +8,11 @@ An aspiring **Data Analyst** passionate about uncovering patterns, telling stori
 * **Core Analytics Competencies:** Exploratory Data Analysis (EDA), Cohort Analysis, RFM Segmentation, K-Means Clustering, Dashboard Design, Forecasting
 
 ### Featured Projects
-* **[Customer Behavior Analysis] ()**
+* **[Customer Behavior Analysis] (https://github.com/BobiDutta/Customer-Behavior-Analysis)**
 Conducted behavioral and cohort analysis using SQL queries to evaluate retention rates, acquisition funnels, and churn risks.
-* **[Customer Segmentation Model] ()**
+* **[Customer Segmentation Model] (https://github.com/BobiDutta/Customer-Segmentation-Model#customer-segmentation-model)**
 Segmented customers using RFM metrics and K-Means clustering in Python to discover distinct behavioral groups and purchasing patterns.
-* **[SuperStore Sales Dashboard] ()**
+* **[SuperStore Sales Dashboard] (https://github.com/BobiDutta/Superstore-Sales-Dashboard)**
 Designed an interactive Power BI dashboard tracking KPIs (Sales, Profit, Orders, Ship Days) across regions, product categories, and 15-days sales forecasts.
 
 #### What I'm Looking For
@@ -20,6 +20,6 @@ Designed an interactive Power BI dashboard tracking KPIs (Sales, Profit, Orders,
 * **Goals:** Gain hands-on experience, work on real-world datasets, and build impactful data pipelines and reporting solutions.
 
 # Connect With Me
-* **GitHub:** [BobiDutta]()
+* **GitHub:** [BobiDutta](https://github.com/BobiDutta)
 * **LinkedIn:**
 * **E-mail:** duttabobi@gemil.com
