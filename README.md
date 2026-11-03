@@ -24,5 +24,5 @@ An aspiring **Data Analyst** passionate about uncovering patterns, telling stori
 
 # Connect With Me
 * **GitHub:** [BobiDutta](https://github.com/BobiDutta)
-* **LinkedIn:**
+* **LinkedIn:** https://www.linkedin.com/in/bobi-dutta-aa25753aa?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * **E-mail:** duttabobi.vivo@gmail.com
