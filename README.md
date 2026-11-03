@@ -12,7 +12,7 @@ An aspiring **Data Analyst** passionate about uncovering patterns, telling stori
 Conducted behavioral and cohort analysis using SQL queries to evaluate retention rates, acquisition funnels, and churn risks.
 * **[Customer Segmentation Model] ()**
 Segmented customers using RFM metrics and K-Means clustering in Python to discover distinct behavioral groups and purchasing patterns.
-* **[SuperStore Sales Dashboard]()**
+* **[SuperStore Sales Dashboard] ()**
 Designed an interactive Power BI dashboard tracking KPIs (Sales, Profit, Orders, Ship Days) across regions, product categories, and 15-days sales forecasts.
 
 #### What I'm Looking For
