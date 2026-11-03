@@ -10,13 +10,13 @@ An aspiring **Data Analyst** passionate about uncovering patterns, telling stori
 ### Featured Projects
 * **[Customer Behavior Analysis] (https://github.com/BobiDutta/Customer-Behavior-Analysis)**
 
-Conducted behavioral and cohort analysis using SQL queries to evaluate retention rates, acquisition funnels, and churn risks.
+  Conducted behavioral and cohort analysis using SQL queries to evaluate retention rates, acquisition funnels, and churn risks.
 * **[Customer Segmentation Model] (https://github.com/BobiDutta/Customer-Segmentation-Model#customer-segmentation-model)**
 
-Segmented customers using RFM metrics and K-Means clustering in Python to discover distinct behavioral groups and purchasing patterns.
+  Segmented customers using RFM metrics and K-Means clustering in Python to discover distinct behavioral groups and purchasing patterns.
 * **[SuperStore Sales Dashboard] (https://github.com/BobiDutta/Superstore-Sales-Dashboard)**
 
-Designed an interactive Power BI dashboard tracking KPIs (Sales, Profit, Orders, Ship Days) across regions, product categories, and 15-days sales forecasts.
+  Designed an interactive Power BI dashboard tracking KPIs (Sales, Profit, Orders, Ship Days) across regions, product categories, and 15-days sales forecasts.
 
 #### What I'm Looking For
 * **Roles:** Data Analyst Intern
